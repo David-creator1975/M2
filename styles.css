@@ -1,0 +1,19 @@
+.picture{width:57%;
+margin-left: 21%;
+margin-right:2%;
+}
+
+
+.container-fluid{width:55%;
+margin-left:20%;
+border-style:double;
+border-color: aliceblue;
+border-width: 10px;
+padding-top: -3%;}
+
+body{padding-top:20% ;
+background-color: black;}
+
+.font{text-align: center; font-weight: 600;
+font-size:3rem ;color:azure;
+margin-right:4%}
